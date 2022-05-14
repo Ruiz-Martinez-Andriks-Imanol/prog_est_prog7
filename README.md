@@ -16,7 +16,7 @@ Muestra el uso de:
     </ul>
     </p>
 <br>
-Objetivo: Calcular el total a pagar de arduinos y la cantidad de estas. También el descuento del 25%,otro de 15% y uno de 5%.
+Objetivo: Calcular el total a pagar de arduinos y la cantidad de estas. También el descuento del 25%, otro de 15% y uno de 5%.
 <br>
 <p>Breve descripción:
 Este  es un Programa para una tienda de Arduinos, en dicha tienda existe una promoción.
