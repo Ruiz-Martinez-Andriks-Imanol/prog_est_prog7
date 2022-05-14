@@ -10,7 +10,7 @@ Muestra el uso de:
     -scanf<
     -El uso de include para las librerias
     -condicional if-else if
-    -Comentarios para la doumentación interna del programa.
+    -Comentarios para la documentación interna del programa.
 */
 #include<stdio.h>
 int main() {
