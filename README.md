@@ -12,7 +12,7 @@ Muestra el uso de:
     <li>scanf</li>
     <li>El uso de include para las librerias</li>
     <li>condicional if-else if</li>
-<li>Comentarios para la doumentación interna del programa.</li>
+<li>Comentarios para la documentación interna del programa.</li>
     </ul>
     </p>
 <br>
