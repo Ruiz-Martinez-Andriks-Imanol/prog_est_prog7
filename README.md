@@ -1,6 +1,6 @@
 # prog_est_prog7
-<b>Autor:</b> Andriks Imanol Ruiz Martínez, Fecha: 10/02/2022 <br>
-<b>Escuela:</b> Universidad del Valle de Mexico Campus Villahermosa <br>
+<b>Autor:</b> Andriks Imanol Ruiz Martínez, <b>Fecha:</b> 10/02/2022 <br>
+<b>Escuela:</b> Universidad del Valle de Mexico <b>Campus</b> Villahermosa <br>
 <b>Materia:</b> Programación Estructurada <br>
 <b>Ciclo:</b> 01/2022</p>
 <br>
