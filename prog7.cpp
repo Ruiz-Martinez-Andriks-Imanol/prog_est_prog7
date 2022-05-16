@@ -1,6 +1,6 @@
-/* Autor: Andriks Imanol Ruiz Mártinez, Realizado: 10/02/2022
+/* Autor: Andriks Imanol Ruiz Martínez, Realizado: 10/02/2022
 Escuela: Universidad del Valle de Mexico Campus Villahermosa
-Materia: Programación Estructrada 
+Materia: Programación Estructurada 
 Ciclo: 01/2022
 Este es un programa de condicionales de Lenguaje C de la materia de Programación Estructurada
 Muestra el uso de:
