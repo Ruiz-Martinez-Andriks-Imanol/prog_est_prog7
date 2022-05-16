@@ -1,8 +1,8 @@
 # prog_est_prog7
-Autor: Andriks Imanol Ruiz Martínez, Fecha: 10/02/2022 <br>
-Escuela: Universidad del Valle de Mexico Campus Villahermosa <br>
-Materia: Programación Estructurada <br>
-Ciclo: 01/2022</p>
+<b>Autor:</b> Andriks Imanol Ruiz Martínez, Fecha: 10/02/2022 <br>
+<b>Escuela:</b> Universidad del Valle de Mexico Campus Villahermosa <br>
+<b>Materia:</b> Programación Estructurada <br>
+<b>Ciclo:</b> 01/2022</p>
 <br>
 <p>Este es un programa de condicionales de Lenguaje C de la materia de Programación Estructurada<br>
 Muestra el uso de:
@@ -16,10 +16,10 @@ Muestra el uso de:
     </ul>
     </p>
 <br>
-Objetivo: Calcular el total a pagar de arduinos y la cantidad de estas. También el descuento del 25%, otro de 15% y uno de 5%.
+<b>Objetivo:</b> Calcular el total a pagar de arduinos y la cantidad de estas. También el descuento del 25%, otro de 15% y uno de 5%.
 <br>
 <br>
-<p>Breve descripción:
+<p></b>Breve descripción:</b>
 Este  es un Programa para una tienda de Arduinos, en dicha tienda existe una promoción.
 <br>
 Si Si se comrpan 10 o mas, tienen el 25% de descuento, si se compran mínimo 5 arduinos, tienen 15% de descuento
