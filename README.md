@@ -19,7 +19,7 @@ Muestra el uso de:
 <b>Objetivo:</b> Calcular el total a pagar de arduinos y la cantidad de estas. También el descuento del 25%, otro de 15% y uno de 5%.
 <br>
 <br>
-<p></b>Breve descripción:</b>
+<p><b>Breve descripción:</b>
 Este  es un Programa para una tienda de Arduinos, en dicha tienda existe una promoción.
 <br>
 Si Si se comrpan 10 o mas, tienen el 25% de descuento, si se compran mínimo 5 arduinos, tienen 15% de descuento
