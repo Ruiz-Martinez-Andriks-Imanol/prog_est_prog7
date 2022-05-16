@@ -1,7 +1,7 @@
 # prog_est_prog7
-Autor: Andriks Imanol Ruiz Mártinez, Fecha: 10/02/2022 <br>
+Autor: Andriks Imanol Ruiz Martínez, Fecha: 10/02/2022 <br>
 Escuela: Universidad del Valle de Mexico Campus Villahermosa <br>
-Materia: Programación Estructrada <br>
+Materia: Programación Estructurada <br>
 Ciclo: 01/2022</p>
 <br>
 <p>Este es un programa de condicionales de Lenguaje C de la materia de Programación Estructurada<br>
